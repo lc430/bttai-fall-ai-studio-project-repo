@@ -1,1 +1,1 @@
-Predicted the success rate of Kickstarter projects
+Predicting the success rate of Kickstarter projects
