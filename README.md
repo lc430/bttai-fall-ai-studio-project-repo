@@ -1,8 +1,8 @@
-Kickstarter Success Prediction
+**Kickstarter Success Prediction**
 
 This project explores the Kickstarter KickstarterScrape Dataset and builds machine-learning models to predict whether a campaign will be successful based on project characteristics.
 
-Project Overview
+**Project Overview**
 
 The goal of this project is to:
 
@@ -24,7 +24,7 @@ Neural Networks
 
 Conduct exploratory data analysis (EDA)
 
-Dataset
+**Dataset**
 
 File: DSI_kickstarterscrape_dataset.csv
 
