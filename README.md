@@ -40,7 +40,7 @@ This project explores the **Kickstarter KickstarterScrape Dataset** and builds m
 
 2. **Install dependencies:**
 ```bash
-   pip install pandas numpy scipy scikit-learn matplotlib seaborn nbformat
+   pip install jupyter nbformat pandas numpy matplotlib seaborn scipy scikit-learn
 ```
 
 3. **Access the dataset:**
