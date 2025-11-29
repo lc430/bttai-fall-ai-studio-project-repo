@@ -150,7 +150,6 @@ Actual Success         707            4,508
 
 ---
 ## 🚀 **Next Steps**
-   - Build Streamlit web app for interactive predictions
    - API development for integration with campaign planning tools
    - Implement fairness constraints during training
 
