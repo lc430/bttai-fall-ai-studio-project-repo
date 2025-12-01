@@ -136,7 +136,7 @@ The potential impact includes:
 | Model | Accuracy | Precision | Recall | F1 Score | ROC AUC | Notes |
 |-------|----------|-----------|--------|----------|---------|-------|
 | **Random Forest** | **84.5%** | **0.84** | **0.84** | **0.84** | - | Best overall; captures non-linear patterns |
-| **Logistic Regression** | 82.7% | 85.5% | 0.82 | 0.84 | **0.91** | Excellent probability  |
+| **Logistic Regression** | 83.1% | 86.7% | 0.82 | 0.84 | **0.91** | Excellent probability  |
 | **Neural Network** | 82.3% | 0.82 | 0.82 | 0.82 | - | Good performance, simpler architecture  |
 | **K-Nearest Neighbors** | 0.71 | 0.71 | 0.71 | 0.71 | - | Lower performance; complex decision boundaries |
 
