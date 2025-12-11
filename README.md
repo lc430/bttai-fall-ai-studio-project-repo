@@ -5,8 +5,8 @@ This project explores the **Kickstarter KickstarterScrape Dataset** and builds m
 ## **Team Members**
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Ishveen Kaur    | @ishveenk9 |             | Data Prep, Website    |
-| Amaima Awais   | @AAwais-12     |   | KNN Model and Hypertuning    |
+| Ishveen Kaur    | @ishveenk9 | Data Prep and Website   | 
+| Amaima Awais   | @AAwais-12     | KNN Model and Hypertuning    |
 | Gracious Ogyiri Asare     | @sheisgracious  | Logistic Regression Model and Documentation              |
 | Lize Chen      | @lc430       | Random Forest Model and Neural Network  |
 
