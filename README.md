@@ -20,7 +20,7 @@ This project explores the **Kickstarter KickstarterScrape Dataset** and builds m
 - Generated actionable insights to inform business decisions at for Kickstarter campaigns, identifying key success factors.
 - Implemented comprehensive data preprocessing including Winsorization for outlier treatment, one-hot encoding for categorical features, and addressed data leakage by removing post-campaign features.
 
-### **View Streamlit Application:** https://kickstarter-sucess-predictor.streamlit.app/
+### **View Streamlit Application:** https://kickstarter-success-predictor.streamlit.app/
 ---
 
 ## 👩🏽‍💻 **Setup and Installation**
